@@ -1,2 +1,2 @@
-# symmetrical-octo-sniffle
+# C# Group Project
 STUDENT INFORMATION APP
