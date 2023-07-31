@@ -1,2 +1,2 @@
 # C# Group Project
-STUDENT INFORMATION APP
+**This is the app we created for our school , which helps record and display the student information**
